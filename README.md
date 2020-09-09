@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything.
 - 📫 How to reach me: dm on ig @diana_pulatovaa
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Multilingual :v: and don't like small talk :expressionless:
+- 😄 Pronouns: dai-a-nuh
+- ⚡ Fun fact: Multilingual :v: 
 

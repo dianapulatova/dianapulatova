@@ -12,8 +12,8 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about anything.
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: dai-a-nuh
-- ⚡ Fun fact: Day-01: I'm enjoying "Fly Me To The Moon - Lofi Cover (Prod. YungRhythm) | FOR 1 HOUR" at the moment
-[Fly Me To The Moon](https://www.youtube.com/watch?v=aGjdNVNAyvM)
+- ⚡ Fun fact: Day-01: I'm enjoying 
+![Fly Me To The Moon](https://www.youtube.com/watch?v=aGjdNVNAyvM)
 
 
 

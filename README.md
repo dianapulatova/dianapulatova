@@ -12,8 +12,10 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about anything.
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: dai-a-nuh
-- ⚡ Fun fact: Day-01: I'm enjoying 
-[Fly Me To The Moon](https://www.youtube.com/watch?v=aGjdNVNAyvM) at the moment.
+- ⚡ Fun fact: 
+<!-- Day-01: I'm enjoying 
+[Fly Me To The Moon](https://www.youtube.com/watch?v=aGjdNVNAyvM) at the moment. -->
+Day-02: I'm enjoying Dairy Free Mango Sorbet at the moment.
 
 
 

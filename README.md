@@ -18,7 +18,8 @@ Here are some ideas to get you started: -->
 <!-- Day-02: I'm enjoying Dairy Free Mango Sorbet at the moment. -->
 <!-- Day-03: ... -->
 <!-- Day-04: Give me travel tips to Switzerland  -->
-Day-05: Fly Me To The Moon
+<!-- Day-05: Fly Me To The Moon -->
+Day-06: Consistency is the key!
 
 
 

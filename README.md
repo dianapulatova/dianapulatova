@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on ChitChat app
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything.
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: 
 - 😄 Pronouns: dai-a-nuh
 - ⚡ Fun fact: 
 <!-- Day-01: I'm enjoying 

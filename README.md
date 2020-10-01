@@ -22,7 +22,7 @@ Here are some ideas to get you started: -->
 <!-- Day-06: Consistency is the key! -->
 Day-07: Give me app ideas
 
-
+Let's be friends on (LinkedIn)[https://www.linkedin.com/in/diana-pulatova/]
 
 
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/view/peach-cat-cute-hello-waving-hi-gif-17076801" width="28px">
+  <img src="https://tenor.com/view/peach-cat-cute-hello-waving-hi-gif-17076801" width="">
 </p>
 
 ### Hi there 👋

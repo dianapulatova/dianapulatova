@@ -33,7 +33,7 @@ Let's be friends on [LinkedIn](https://www.linkedin.com/in/diana-pulatova/)
 
 
 <p align="center">
-<img src="https://media.giphy.com/media/iGwIFdyvV3Xrimie3h/giphy.gif" alt="loading" width="20%">
+<img src="https://media.giphy.com/media/iGwIFdyvV3Xrimie3h/giphy.gif" alt="loading" width="15%">
 
 
 </p>

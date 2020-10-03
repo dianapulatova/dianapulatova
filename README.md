@@ -32,6 +32,8 @@ Day-07: Give me app ideas
 Let's be friends on [LinkedIn](https://www.linkedin.com/in/diana-pulatova/)
 
 
-
+<p align="center">
 
 ![Loading](https://media.giphy.com/media/iGwIFdyvV3Xrimie3h/giphy.gif)
+
+</p>

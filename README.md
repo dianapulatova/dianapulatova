@@ -1,6 +1,6 @@
 <html>
 <p align="center">
-  ![Peach](https://tenor.com/view/kittycass-peachcat-hello-box-gif-15951233)
+
   
 </p>
 </html>
@@ -34,3 +34,4 @@ Let's be friends on [LinkedIn](https://www.linkedin.com/in/diana-pulatova/)
 
 
 
+![Loading](https://media.giphy.com/media/iGwIFdyvV3Xrimie3h/giphy.gif)

@@ -27,7 +27,7 @@ Here are some ideas to get you started: -->
 <!-- Day-04: Give me travel tips to Switzerland  -->
 <!-- Day-05: Fly Me To The Moon -->
 <!-- Day-06: Consistency is the key! -->
-Day-07: Give me app ideas
+Day-08: Working on new project 
 
 Let's be friends on [LinkedIn](https://www.linkedin.com/in/diana-pulatova/)
 

@@ -27,7 +27,8 @@ Here are some ideas to get you started: -->
 <!-- Day-04: Give me travel tips to Switzerland  -->
 <!-- Day-05: Fly Me To The Moon -->
 <!-- Day-06: Consistency is the key! -->
-Day-08: Working on new project 
+<!-- Day-08: Working on new project  -->
+Day-09: Started new Face Recognition project
 
 Let's be friends on [LinkedIn](https://www.linkedin.com/in/diana-pulatova/)
 

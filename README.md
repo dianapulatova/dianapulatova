@@ -33,7 +33,7 @@ Day-10: AI
 
 
 Let's be friends on [LinkedIn](https://www.linkedin.com/in/diana-pulatova/)
-br
+<br>
 Follow me on [Instagram](https://www.instagram.com/diana_pulatovaa/)
 
 

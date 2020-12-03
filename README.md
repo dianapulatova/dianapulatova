@@ -15,11 +15,11 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning golang and python
 - 👯 I’m looking to collaborate on ChitChat app
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything.
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about anything. -->
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/diana-pulatova/)
-- 😄 Pronouns: dai-a-nuh
-- ⚡ Fun fact: 
+<!-- - 😄 Pronouns: dai-a-nuh -->
+<!-- - ⚡ Fun fact:  -->
 <!-- Day-01: I'm enjoying 
 [Fly Me To The Moon](https://www.youtube.com/watch?v=aGjdNVNAyvM) at the moment. -->
 <!-- Day-02: I'm enjoying Dairy Free Mango Sorbet at the moment. -->

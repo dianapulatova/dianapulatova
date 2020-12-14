@@ -29,7 +29,7 @@ Here are some ideas to get you started: -->
 <!-- Day-06: Consistency is the key! -->
 <!-- Day-08: Working on new project  -->
 <!-- Day-09: Started new Face Recognition project -->
-Day-45: AI 
+Day-46: AI 
 
 
 Let's be friends on [LinkedIn](https://www.linkedin.com/in/diana-pulatova/)

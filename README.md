@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning golang and python
-- 👯 I’m looking to collaborate on ChitChat app
+- 👯 I’m looking to collaborate on extending Coding Dinos group app
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about anything. -->
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/diana-pulatova/)

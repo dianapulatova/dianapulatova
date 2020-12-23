@@ -29,7 +29,7 @@ Here are some ideas to get you started: -->
 <!-- Day-06: Consistency is the key! -->
 <!-- Day-08: Working on new project  -->
 <!-- Day-09: Started new Face Recognition project -->
-<!-- Day-02: AI with Python -->
+<!-- Day-03: AI with Python -->
 
 
 Let's be friends on [LinkedIn](https://www.linkedin.com/in/diana-pulatova/)

@@ -34,7 +34,7 @@ Day-09: Started new Face Recognition project
 
 Let's be friends on [LinkedIn](https://www.linkedin.com/in/diana-pulatova/)
 <br>
-<!-- Follow me on [Instagram](https://www.instagram.com/diana_pulatovaa/) -->
+Follow me on [Instagram](https://www.instagram.com/diana_pulatovaa/)
 <hr>
 
 

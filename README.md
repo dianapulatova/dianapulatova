@@ -13,7 +13,7 @@
 Here are some ideas to get you started: -->
 <!-- 
 - 🔭 I’m currently working on my portfolio -->
-- 🌱 I’m currently learning go and python
+- 🌱 I’m currently learning go, python and machine learning
 - 👯 I’m looking to collaborate on extending Coding Dinos group app
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything.

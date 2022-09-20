@@ -15,8 +15,8 @@ Here are some ideas to get you started: -->
 
 <!-- 
 - 🔭 I’m currently working on my portfolio -->
-- 🌱 I’m currently learning go, python and machine learning
-- 👯 I’m looking to collaborate on extending Coding Dinos group app, feel free to reach me out!
+- 🌱 Currently learning go, python and machine learning
+- 👯 I’m looking to collaborate on extending Coding Dinos group app, feel free to reach out to me!
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything.
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/diana-pulatova/)

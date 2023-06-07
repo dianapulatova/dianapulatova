@@ -19,7 +19,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on extending Coding Dinos group app, feel free to reach out to me!
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything.
-- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/diana-pulatova/)
+- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/dianapulatova/)
 <!-- - 😄 Pronouns: dai-a-nuh -->
 <!-- - ⚡ Fun fact:  -->
 <!-- Day-01: I'm enjoying 
